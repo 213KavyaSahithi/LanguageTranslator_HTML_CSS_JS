@@ -20,7 +20,7 @@ Welcome to the **Language Translation Hub!** This web app allows you to easily t
 
 ## 📂 Folder Structure
 language-translator/
-├── index.html # Landing page
+'''├── index.html # Landing page'''
 ├── mainpage.html # Main translation interface
 ├── style.css # CSS for landing page
 ├── style_main.css # CSS for main translator
