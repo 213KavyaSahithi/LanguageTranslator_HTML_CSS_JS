@@ -4,7 +4,8 @@ Welcome to the **Language Translation Hub!** This web app allows you to easily t
 ---
 
 ## 📸 Preview
-
+🔗 Experience the translator in action via the live demo below.
+ [Live Demo](https://213kavyasahithi.github.io/LanguageTranslator_HTML_CSS_JS/)
 
 ---
 
