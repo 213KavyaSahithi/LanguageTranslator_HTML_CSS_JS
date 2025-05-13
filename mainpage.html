@@ -3,11 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Language Translator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="style_main.css">
 </head>
 <body>
-    <h1>Hello</h1>
+    <div class="hero">
+        <div class="innerdata">
+            <div class="text">
+                <textarea id="from" placeholder="Enter the text"></textarea>
+                <textarea id="to" placeholder="Translated Text" readonly disabled></textarea>
+            </div>
+            <div class="lang">
+                <i class="fa-solid fa-volume-high"></i>
+                <i class="fa-solid fa-copy"></i>
+                <select>
+                    <option value="English">English</option>
+                    <option value="English">Telugu</option>
+                    <option value="English">Hindi</option>
+                </select>
+                <i class="fa-solid fa-arrow-right-arrow-left"></i>
+                <select>
+                    <option value="English">English</option>
+                    <option value="English">Telugu</option>
+                    <option value="English">Hindi</option>
+                </select>
+                <i class="fa-solid fa-volume-high"></i>
+                <i class="fa-solid fa-copy"></i>
+            </div>
+            <button>Translate</button>
+        </div>
+    </div>
     <script src="countries.js"></script>
     <script src="translate.js"></script>
 </body>
