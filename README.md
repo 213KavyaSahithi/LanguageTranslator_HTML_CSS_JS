@@ -20,13 +20,17 @@ Welcome to the **Language Translation Hub!** This web app allows you to easily t
 
 ## 📂 Folder Structure
 language-translator/
-'''├── index.html # Landing page'''
-├── mainpage.html # Main translation interface
-├── style.css # CSS for landing page
-├── style_main.css # CSS for main translator
-├── countries.js # Language codes dictionary
-├── translate.js # Core JS logic for translation
-└── README.md # Project documentation
+```
+├── index.html            # Landing page
+├── mainpage.html         # Main translation interface
+├── style.css             # CSS for landing page
+├── style_main.css        # CSS for main translator
+├── countries.js          # Language codes dictionary
+├── translate.js          # Core JS logic for translation
+└── README.md             # Project documentation
+```
+
+---
 
 ## 🛠️ Technologies Used
 - HTML5, CSS3, JavaScript (ES6)
